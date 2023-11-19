@@ -6,9 +6,9 @@ const WEBSITE_SORTS: WebsiteSort[] = [
 const WEBSITE_ITEMS: WebsiteItem[] = [
   {
     sortId: 1,
-    title: "主标题",
-    url: "http://www.your-web-page.com/",
-    icon: "",
+    title: "百度",
+    url: "http://www.baidu.com/",
+    icon: "https://www.baidu.com/img/flexible/logo/pc/result.png",
     color: "#0171CD",
   },
   {
