@@ -62,7 +62,7 @@ function onDrawerClick(e: Event) {
         <div class="drawer__content">
           <slot></slot>
         </div>
-        <div class="drawer__footer">
+        <div class="drawer__footer" v-if="false">
           <sketch-outlined class="footer-icon" />
           <a href="https://github.com/EsunR/Blog-Index" target="_blank">
             Driven by <b>EsunR/Blog-Index</b>
