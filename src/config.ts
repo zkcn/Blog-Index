@@ -8,7 +8,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "百度",
     url: "http://www.baidu.com/",
-    icon: "https://www.baidu.com/img/flexible/logo/pc/result.png",
+    icon: "",
     color: "#0171CD",
   },
   {
@@ -73,7 +73,7 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
+    title: "ZKCN Index",
     keywords: "Blog, Index, Index Page",
     description: "This is my personal blog index page.",
   },
