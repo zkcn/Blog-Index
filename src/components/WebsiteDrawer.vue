@@ -88,8 +88,7 @@ onMounted(() => {
     </div>
     <!-- Drawer -->
     <Drawer
-      <!-- :model-value="modelValue" -->
-      :model-value="false"
+      :model-value="modelValue"
       class="website-drawer__drawer"
       @update:model-value="$emit('update:modelValue', $event)"
     >
